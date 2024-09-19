@@ -1,0 +1,1 @@
+Test content for newfile3.txt

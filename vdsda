@@ -1,0 +1,23 @@
+[33mcommit f96c7b3f13bca6089da97e1ef65166f3f2faf177[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ehsan138 <67409692+Ehsan138@users.noreply.github.com>
+Date:   Wed Sep 18 12:27:30 2024 -0700
+
+    Second test commit with newfile2.txt
+
+[33mcommit 9977ec8e378dfe866674523d19c94a216a412e01[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ehsan138 <67409692+Ehsan138@users.noreply.github.com>
+Date:   Wed Sep 18 11:36:06 2024 -0700
+
+    Added newfile.txt to the cloned repository
+
+[33mcommit b9a3da438f0244b71b204f52f967c9983d9145bf[m
+Author: Ehsan138 <67409692+Ehsan138@users.noreply.github.com>
+Date:   Wed Sep 18 11:32:28 2024 -0700
+
+    Rename test-text to test-text.txt
+
+[33mcommit 5ba68addf8c6eed641a6679904caa91e795cd581[m
+Author: Ehsan138 <67409692+Ehsan138@users.noreply.github.com>
+Date:   Wed Sep 18 11:32:01 2024 -0700
+
+    Create test-text
